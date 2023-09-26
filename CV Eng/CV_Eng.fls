@@ -641,6 +641,7 @@ INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pd
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+<<<<<<< Updated upstream
 INPUT .\CV_Eng.out
 INPUT CV_Eng.out
 INPUT .\CV_Eng.out
@@ -651,6 +652,9 @@ INPUT .\CV_Eng.out
 INPUT CV_Eng.out
 INPUT .\CV_Eng.out
 INPUT .\CV_Eng.out
+=======
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+>>>>>>> Stashed changes
 OUTPUT CV_Eng.out
 OUTPUT CV_Eng.pdf
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1.tfm
@@ -662,6 +666,20 @@ INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\latex\ebgaramond\ts1ebgaramond-lf.fd
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\tex\latex\ebgaramond\ts1ebgaramond-lf.fd
@@ -677,12 +695,28 @@ INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EB
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1--base.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Bold-lf-t1.vf
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1--base.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Regular-lf-t1.vf
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1--base.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Regular-lf-ts1.vf
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-ts1--base.tfm
+<<<<<<< Updated upstream
+=======
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Regular-lf-t1.vf
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1--base.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Regular-lf-t1.vf
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Regular-lf-t1--base.tfm
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Bold-lf-t1.vf
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Bold-lf-t1--base.tfm
+>>>>>>> Stashed changes
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Italic-lf-t1.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-BoldItalic-lf-t1.tfm
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-BoldItalic-lf-t1.vf
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-BoldItalic-lf-t1--base.tfm
+<<<<<<< Updated upstream
+=======
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\vf\public\ebgaramond\EBGaramond-Italic-lf-t1.vf
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ebgaramond\EBGaramond-Italic-lf-t1--base.tfm
+>>>>>>> Stashed changes
 INPUT CV_Eng.aux
 INPUT .\CV_Eng.out
 INPUT .\CV_Eng.out
@@ -695,5 +729,10 @@ INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Bold.pfb
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-BoldItalic.pfb
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-BoldItalic.pfb
+<<<<<<< Updated upstream
+=======
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Italic.pfb
+INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Italic.pfb
+>>>>>>> Stashed changes
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Regular.pfb
 INPUT C:\Users\91633\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Regular.pfb

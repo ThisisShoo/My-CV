@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.24)  27 JUN 2023 10:18
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.24)  26 SEP 2023 09:29
+>>>>>>> Stashed changes
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -376,6 +380,7 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 ) (CV_Eng.aux)
 \openout1 = `CV_Eng.aux'.
 
+<<<<<<< Updated upstream
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
@@ -458,6 +463,90 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
+=======
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+>>>>>>> Stashed changes
 \c@mv@tabular=\count289
 \c@mv@boldtabular=\count290
 
@@ -469,6 +558,7 @@ LaTeX Font Info:    ... okay on input line 35.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
+<<<<<<< Updated upstream
 * h-part:(L,W,R)=(65.04256pt, 467.42276pt, 65.04256pt)
 * v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
@@ -478,6 +568,17 @@ LaTeX Font Info:    ... okay on input line 35.
 * \oddsidemargin=-7.22743pt
 * \evensidemargin=-7.22743pt
 * \topmargin=-37.0pt
+=======
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(54.2025pt, 772.77686pt, 18.06749pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=525.23788pt
+* \textheight=772.77686pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-55.06749pt
+>>>>>>> Stashed changes
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -509,12 +610,17 @@ LaTeX Font Info:    ... okay on input line 35.
 \makeMPintoPDFobject=\count296
 \everyMPtoPDFconversion=\toks29
 )
+<<<<<<< Updated upstream
 Package hyperref Info: Link coloring OFF on input line 35.
  (CV_Eng.out) (CV_Eng.out)
+=======
+Package hyperref Info: Link coloring ON on input line 37.
+>>>>>>> Stashed changes
 \@outlinefile=\write3
 \openout3 = `CV_Eng.out'.
 
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <24.88> not available
+<<<<<<< Updated upstream
 (Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
 (Font)              scaled to size 24.88pt on input line 39.
@@ -523,10 +629,21 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <24.88> not availa
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
 (Font)              scaled to size 24.88pt on input line 41.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 52.
+=======
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 24.88pt on input line 41.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <24.88> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 24.88pt on input line 43.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 54.
+>>>>>>> Stashed changes
  (C:\Users\91633\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <14.4> not available
+<<<<<<< Updated upstream
 (Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 67.
@@ -539,10 +656,41 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <10> not available
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
 (Font)              scaled to size 10.0pt on input line 70.
 LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-LF on input line 83.
+=======
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 69.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 69.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <14.4> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input line 69.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 69.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 72.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <7> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <8> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <6> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <8> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 8.0pt on input line 85.
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-LF on input line 93.
+>>>>>>> Stashed changes
  (C:\Users\91633\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond-lf.fd
 File: TS1EBGaramond-LF.fd 2019/10/22 (autoinst) Font definitions for TS1/EBGaramond-LF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-LF/m/n' in size <10> not available
+<<<<<<< Updated upstream
 (Font)              Font shape `TS1/EBGaramond-LF/regular/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `TS1/EBGaramond-LF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 83.
@@ -578,5 +726,65 @@ Output written on CV_Eng.pdf (2 pages, 314900 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
+=======
+(Font)              Font shape `TS1/EBGaramond-LF/regular/n' tried instead on input line 93.
+LaTeX Font Info:    Font shape `TS1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 93.
+ [1
+
+{C:/Users/91633/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/it' tried instead on input line 125.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 125.
+
+
+e:/Documents and stuff/Important Documents/CV/My-CV/CV Eng/CV_Eng.tex:138: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138     \caption
+                  {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/sl' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/sl' tried instead on input line 154.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/sl' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/regular/it' tried instead on input line 154.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 154.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/sl' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/sl' tried instead on input line 154.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/sl' in size <10> not available
+(Font)              Font shape `T1/EBGaramond-LF/bold/it' tried instead on input line 154.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/it' will be
+(Font)              scaled to size 10.0pt on input line 154.
+[2] (CV_Eng.aux)
+
+Package rerunfilecheck Warning: File `CV_Eng.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CV_Eng.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 11942 strings out of 475385
+ 190122 string characters out of 2776906
+ 558735 words of memory out of 3000000
+ 33112 multiletter control sequences out of 15000+600000
+ 557499 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,77p,1507b,478s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebgm_utfkrl.enc}{C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebgm_ld6df2.enc} <C:\Users\91633\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebgm_ldtcgl.enc}<C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb><C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/91633/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
+Output written on CV_Eng.pdf (2 pages, 406559 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+>>>>>>> Stashed changes
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
